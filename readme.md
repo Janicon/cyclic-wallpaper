@@ -14,7 +14,7 @@ Change the values in the following sections to match your system.
 ### `images` folder
 Create a folder named `images` in the root folder of the webpage. All images put in this folder must be resized to to the dimensions calculated in the following step. This will make create a perfect fit for the tiles.
 
-    TODO: GUI application to resize and automatically perform the above steps.
+> TODO: GUI application to resize and automatically perform the above steps.
 
 
 ### style.css
