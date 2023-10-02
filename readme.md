@@ -1,5 +1,5 @@
 # General Instructions
-The webpage is designed to be used in Wallpaper Engine on a single-monitor setup, or widescreen and horizontal multi-monitor setups with equal vertical resolutions. There is an SFW–NSFW toggle to hide the more "spicy" wallpapers when needed (i.e. *work*).
+The webpage is designed to be used in Wallpaper Engine on a single-monitor setup, or widescreen and horizontal multi-monitor setups with equal vertical resolutions. There is an SFW–NSFW for use as needed.
 
 ## How to Adapt to Your System
 Change the values in the following sections to match your system.
